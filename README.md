@@ -1,11 +1,11 @@
-Description
-Glaucoma is a common eye condition where the optic nerve, which connects the eye to the brain, becomes damaged and can cause sight loss.So, in our project, we will make: Early Detection Of Glaucoma Using Deep Learning. The binary classification is done using fundus image which is an ocular documentation that records the appearance of a patient’s retina and optic nerve.
+## Description
+it is a regression data about cars that is have some features help the model to predict the price of it. 
 
-Notebook link
+## Notebook link
 
 
-Tasks PDF
+## Tasks PDF
 
-Author
+## Author
 AamalMaher
 AalaaTharwat
