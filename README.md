@@ -11,5 +11,5 @@ https://github.com/AamalMaher/AI/blob/main/Car%20Price%20Prediction%20(1).ipynb
 https://github.com/AamalMaher/AI/blob/main/car_price.pptx
 
 ## Author
-AamalMaher
+[AamalMaher](https://github.com/AamalMaher)
 AalaaTharwat
